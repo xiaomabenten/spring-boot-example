@@ -25,6 +25,7 @@
 	</properties>
 	<modules>
 		<module>Spring-Boot-MyBatis-MultiDataSource</module>
+		<module>Spring-Boot-AOP-Log</module>
 	</modules>
 
 </project>

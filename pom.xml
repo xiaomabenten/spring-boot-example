@@ -27,6 +27,7 @@
         <module>Spring-Boot-MyBatis-MultiDataSource</module>
         <module>Spring-Boot-AOP-Log</module>
         <module>Spring-Boot-Redis-Cache</module>
+        <module>Spring-Boot-Ehcache-Cache</module>
     </modules>
 
 

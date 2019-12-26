@@ -31,6 +31,8 @@
         <module>Spring-Boot-Filter-Interceptor</module>
         <module>Spring-Security-ValidateCode</module>
         <module>Spring-Boot-SpringApplication</module>
+        <module>Spring-Boot-Content-Negotiation</module>
+        <module>Spring-Boot-Hibernate-Validator</module>
     </modules>
 
 

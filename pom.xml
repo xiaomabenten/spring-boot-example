@@ -30,6 +30,7 @@
         <module>Spring-Boot-Ehcache-Cache</module>
         <module>Spring-Boot-Filter-Interceptor</module>
         <module>Spring-Security-ValidateCode</module>
+        <module>Spring-Boot-SpringApplication</module>
     </modules>
 
 

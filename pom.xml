@@ -29,6 +29,7 @@
         <module>Spring-Boot-Redis-Cache</module>
         <module>Spring-Boot-Ehcache-Cache</module>
         <module>Spring-Boot-Filter-Interceptor</module>
+        <module>Spring-Security-ValidateCode</module>
     </modules>
 
 

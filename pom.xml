@@ -28,6 +28,7 @@
         <module>Spring-Boot-AOP-Log</module>
         <module>Spring-Boot-Redis-Cache</module>
         <module>Spring-Boot-Ehcache-Cache</module>
+        <module>Spring-Boot-Filter-Interceptor</module>
     </modules>
 
 

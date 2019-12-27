@@ -33,6 +33,7 @@
         <module>Spring-Boot-SpringApplication</module>
         <module>Spring-Boot-Content-Negotiation</module>
         <module>Spring-Boot-Hibernate-Validator</module>
+        <module>Spring-Regist-Bean</module>
     </modules>
 
 

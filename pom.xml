@@ -41,6 +41,7 @@
         <module>Spring-security-Permission</module>
         <module>Spring-Boot-Shiro-JWT</module>
         <module>Spring-Security-OAuth2-SSO</module>
+        <module>Spring-Security-OAuth2-Config</module>
     </modules>
 
 

@@ -34,6 +34,8 @@
         <module>Spring-Boot-Content-Negotiation</module>
         <module>Spring-Boot-Hibernate-Validator</module>
         <module>Spring-Regist-Bean</module>
+        <module>Spring-Boot-Async</module>
+        <module>Spring-Bean-Lifecycle</module>
     </modules>
 
 

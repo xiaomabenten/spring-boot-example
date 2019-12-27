@@ -38,6 +38,7 @@
         <module>Spring-Bean-Lifecycle</module>
         <module>Spring-Security-SessionManager</module>
         <module>Spring-Security-Logout</module>
+        <module>Spring-security-Permission</module>
     </modules>
 
 

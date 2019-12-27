@@ -36,6 +36,7 @@
         <module>Spring-Regist-Bean</module>
         <module>Spring-Boot-Async</module>
         <module>Spring-Bean-Lifecycle</module>
+        <module>Spring-Security-SessionManager</module>
     </modules>
 
 

@@ -39,6 +39,7 @@
         <module>Spring-Security-SessionManager</module>
         <module>Spring-Security-Logout</module>
         <module>Spring-security-Permission</module>
+        <module>Spring-Boot-Shiro-JWT</module>
     </modules>
 
 
